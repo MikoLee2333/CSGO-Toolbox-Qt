@@ -2,7 +2,7 @@
 #include "ui_mainwindow.h"
 
 //引入库文件，位置必须是绝对地址，有改变务必改动
-#pragma comment(lib, "E:/QtProject/CSGO Toolbox/CSGO-Toolbox/libShareCodeToURLcs.lib" )
+#pragma comment(lib, "D:/CSGO ToolBox/CSGO-Toolbox-Qt/libShareCodeToURLcs.lib" )
 __declspec(dllimport) int api_Urlstring(const char* a);
 
 //全局变量
